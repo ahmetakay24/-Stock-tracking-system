@@ -13,6 +13,7 @@ Bu, Stock Tracking System adında bir Windows Form uygulamasıdır. C# ve SQL Se
 
 - Windows işletim sistemi
 - SQL Server veritabanı
+- .NET Framework sürümü 6.0 veya üstü
 
 ## Uygulama görüntüleri
 
